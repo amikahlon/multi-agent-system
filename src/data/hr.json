@@ -1,0 +1,10 @@
+{
+  "company": "Ami Comp",
+  "asOf": "2026-07-31",
+  "currentHeadcount": 15,
+  "openRoles": 5,
+  "avgTeamUtilization": 0.94,
+  "attritionLast90Days": 3,
+  "avgTimeToHireDays": 47,
+  "criticalRoles": ["Senior Property Manager", "Finance Analyst"]
+}

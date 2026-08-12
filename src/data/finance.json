@@ -1,0 +1,11 @@
+{
+  "company": "Ami Comp",
+  "currency": "EUR",
+  "asOf": "2026-07-31",
+  "monthlyRevenue": 142000,
+  "monthlyExpenses": 118000,
+  "cashOnHand": 210000,
+  "monthlyHiringBudget": 12000,
+  "avgFullyLoadedCostPerEmployee": 5200,
+  "openHeadcountBudget": 2
+}
